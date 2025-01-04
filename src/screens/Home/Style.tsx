@@ -19,7 +19,13 @@ const styles = StyleSheet.create({
     paddingTop: 20,
     paddingBottom: 10,
     backgroundColor: '#4D4D4D'
-  }
+  },
+
+  inputContainer: {
+    width: '80%',
+    flexDirection: 'column',
+    alignItems: 'center',
+  },
 });
 
 export default styles
