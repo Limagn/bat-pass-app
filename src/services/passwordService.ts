@@ -1,6 +1,6 @@
 export default function generatePass() {
   let password: string = '';
-  let characters: string = 'Aa@$!&#123456789abcdefghijPQRSTUVWXYZ';
+  let characters: string = 'Aa@$!&#123456789abcdefghijPQRSTUVWXYZ@!#$%&';
   let passwordLength = 8;
 
   for(let i=0; i < passwordLength; i++) {
