@@ -15,7 +15,7 @@ export function BatTextInput({activate, pass} : CombinedProps) {
       ]}
       placeholder='Pass'
       value={pass}
-      secureTextEntry={activate ? true : false}
+      secureTextEntry={activate ? false : true}
       readOnly
       />
   );
