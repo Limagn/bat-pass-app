@@ -4,7 +4,7 @@ import { StyleSheet } from "react-native";
 const styles = StyleSheet.create({
   appContainer: {
     flex: 1,
-    backgroundColor: '#333333',
+    // backgroundColor: '#333333',
     alignItems: 'center',
     justifyContent: 'center',
   },
@@ -12,13 +12,13 @@ const styles = StyleSheet.create({
   logoContainer: {
     flexDirection: 'column',
     borderWidth: 2,
-    borderColor: '#ffffff',
+    // borderColor: '#ffffff',
     justifyContent: 'center',
     alignSelf: 'center',
     margin: 60,
     paddingTop: 20,
     paddingBottom: 10,
-    backgroundColor: '#4D4D4D'
+    // backgroundColor: '#4D4D4D'
   },
 
   inputContainer: {

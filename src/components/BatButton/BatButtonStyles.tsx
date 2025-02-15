@@ -9,8 +9,8 @@ export const styles = StyleSheet.create({
     paddingVertical: 12,
     paddingHorizontal: 32,
     borderRadius: 4,
-    elevation: 3,
-    backgroundColor: 'black',
+    elevation: 1,
+    // backgroundColor: '#4D4D4D',
   },
 
   text: {
@@ -18,6 +18,6 @@ export const styles = StyleSheet.create({
     lineHeight: 21,
     fontWeight: 'bold',
     letterSpacing: 0.25,
-    color: '#E5BF3C'
+    // color: '#E5BF3C'
   }
 });
